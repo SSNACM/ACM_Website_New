@@ -1,0 +1,377 @@
+{
+  "our faculty council": [
+    {
+      "name": "Dr. T T Mirnalinee",
+      "description": "Head Of Department, CSE",
+      "resource": "/images/team/hod1.png"
+    },
+    {
+      "name": "Dr. N Sujaudeen",
+      "description": "Faculty Sponsor",
+      "resource": "/images/team/fs.jpg"
+    }
+  ],
+  "executive board": [
+    {
+      "name": "Karun Anantharaman",
+      "description": "Chair",
+      "resource": "/images/team/c.jpg"
+    },
+    {
+      "name": "Samyuktha Ganeshkumar",
+      "description": "Vice-Chair",
+      "resource": "/images/team/vc.jpg"
+    },
+    {
+      "name": "Chalini P",
+      "description": "Secretary",
+      "resource": "/images/team/sec.jpg"
+    },
+    {
+      "name": "Karthik D",
+      "description": "Joint Secretary",
+      "resource": "/images/team/js.jpg"
+    },
+    {
+      "name": "Pradeep G",
+      "description": "Treasurer",
+      "resource": "/images/team/t.webp"
+    }
+  ],
+  "technical team": [
+    {
+      "name": "Lokesh N",
+      "description": "Webmaster",
+      "resource": "/images/team/wm.jpeg"
+    },
+    {
+      "name": "Shashank Panda",
+      "description": "Technical Head",
+      "resource": "/images/team/th.jpg"
+    },
+    {
+      "name": "Aravind Kannan Rathinasabapathi",
+      "description": "Technical Deputy Head",
+      "resource": "/images/team/tdh1.jpg"
+    },
+    {
+      "name": "Moniesh R",
+      "description": "Technical Deputy Head",
+      "resource": "/images/team/tdh2.jpg"
+    },
+    {
+      "name": "B Hariprasad",
+      "description": "Technical Deputy Head",
+      "resource": "/images/team/tdh3.jpg"
+    },
+    {
+      "name": "Vignesh Balaji S",
+      "description": "Technical Member",
+      "resource": "/images/team/tm3.jpeg"
+    },
+    {
+      "name": "Jeevesh Krishna Arigala",
+      "description": "Technical Member",
+      "resource": "/images/team/tm5.jpg"
+    },
+    {
+      "name": "Achyuth Anand",
+      "description": "Technical Member",
+      "resource": "/images/team/tm6.jpg"
+    },
+    {
+      "name": "Gokul Prakash R",
+      "description": "Technical Member",
+      "resource": "/images/team/tm4.jpg"
+    },
+    {
+      "name": "Sanjai Balajee",
+      "description": "Technical Member",
+      "resource": "/images/team/tm1.jpg"
+    },
+    {
+      "name": "Pranav Vaithiya Subramani",
+      "description": "Technical Member",
+      "resource": "/images/team/tm7.jpeg"
+    }
+  ],
+  "design team": [
+    {
+      "name": "Ramya Priya",
+      "description": "Design Head",
+      "resource": "/images/team/dh.jpeg"
+    },
+    {
+      "name": "Sanmati P",
+      "description": "Design Deputy Head",
+      "resource": "/images/team/ddh2.jpg"
+    },
+    {
+      "name": "Subha R",
+      "description": "Design Deputy Head",
+      "resource": "/images/team/ddh1.jpg"
+    },
+    {
+      "name": "Gayathri E",
+      "description": "Design Member",
+      "resource": "/images/team/dm1.jpg"
+    },
+    {
+      "name": "Sharvesh S",
+      "description": "Design Member",
+      "resource": "/images/team/dm4.jpg"
+    },
+    {
+      "name": "Lekha Chenguttuvan",
+      "description": "Design Member",
+      "resource": "/images/team/dm5.jpeg"
+    },
+    {
+      "name": "Shri Keshavinee R",
+      "description": "Design Member",
+      "resource": "/images/team/dm6.jpg"
+    },
+    {
+      "name": "Divya Srinivasan",
+      "description": "Design Member",
+      "resource": "/images/team/dm2.jpg"
+    },
+    {
+      "name": "Charumathi P",
+      "description": "Design Member",
+      "resource": "/images/team/dm7.jpg"
+    },
+    {
+      "name": "Jaisshree",
+      "description": "Design Member",
+      "resource": "/images/team/dm3.png"
+    }
+  ],
+  "event management team": [
+    {
+      "name": "Anirudh TN",
+      "description": "Event Head",
+      "resource": "/images/team/eh.jpg"
+    },
+    {
+      "name": "Sushaanth Srinivasan",
+      "description": "Event Deputy Head",
+      "resource": "/images/team/emd3.jpg"
+    },
+    {
+      "name": "Karthik Raja",
+      "description": "Event Deputy Head",
+      "resource": "/images/team/emd1.jpg"
+    },
+    {
+      "name": "Vaishnavi Chellappa",
+      "description": "Event Deputy Head",
+      "resource": "/images/team/emd2.jpeg"
+    },
+    {
+      "name": "Nandakishor V",
+      "description": "Event Member",
+      "resource": "/images/team/em5.jpg"
+    },
+    {
+      "name": "Danish Sharma",
+      "description": "Event Member",
+      "resource": "/images/team/em1.jpg"
+    },
+    {
+      "name": "Mrithula KL",
+      "description": "Event Member",
+      "resource": "/images/team/em3.jpg"
+    },
+    {
+      "name": "Sarika Esackimuthu",
+      "description": "Event Member",
+      "resource": "/images/team/em4.jpg"
+    },
+    {
+      "name": "Udanthika Venkatesh",
+      "description": "Event Member",
+      "resource": "/images/team/em2.jpeg"
+    },
+    {
+      "name": "Nila Sureshkumar",
+      "description": "Event Member",
+      "resource": "/images/team/em6.jpg"
+    }
+  ],
+  "community outreach team": [
+    {
+      "name": "Dhivya Lakshmi R M",
+      "description": "CSR Head",
+      "resource": "/images/team/csrh.jpeg"
+    },
+    {
+      "name": "Shruti Prasanna",
+      "description": "CSR Deputy Head",
+      "resource": "/images/team/csrdh1.jpg"
+    },
+    {
+      "name": "Shreesh Vaidhyanathan",
+      "description": "CSR Deputy Head",
+      "resource": "/images/team/csrdh2.jpg"
+    },
+    {
+      "name": "Amirdha A",
+      "description": "CSR Member",
+      "resource": "/images/team/csrm2.jpg"
+    },
+    {
+      "name": "Anandh K",
+      "description": "CSR Member",
+      "resource": "/images/team/csrm3.jpg"
+    },
+    {
+      "name": "Vaishnav Viju",
+      "description": "CSR Member",
+      "resource": "/images/team/csrm1.jpg"
+    }
+  ],
+  "pr & publicity team": [
+    {
+      "name": "Srivarsha Elangovan",
+      "description": "PR & Publicity Head",
+      "resource": "/images/team/prh.jpeg"
+    },
+    {
+      "name": "Aswin Tony",
+      "description": "PR Deputy Head",
+      "resource": "/images/team/prd1.jpeg"
+    },
+    {
+      "name": "S Keerthana",
+      "description": "PR Deputy Head",
+      "resource": "/images/team/prd2.jpg"
+    },
+    {
+      "name": "Hema M",
+      "description": "PR Member",
+      "resource": "/images/team/prm4.jpeg"
+    },
+    {
+      "name": "Anunita K P",
+      "description": "PR Member",
+      "resource": "/images/team/prm3.jpeg"
+    },
+    {
+      "name": "Neha Sharma",
+      "description": "PR Member",
+      "resource": "/images/team/prm5.jpg"
+    },
+    {
+      "name": "S Aiswarya",
+      "description": "PR Member",
+      "resource": "/images/team/prm2.jpg"
+    },
+    {
+      "name": "Sarath Donepudi",
+      "description": "PR Member",
+      "resource": "/images/team/prm1.jpg"
+    }
+  ],
+  "sponsorship team": [
+    {
+      "name": "L Mukund Balaji",
+      "description": "Sponsorship Head",
+      "resource": "/images/team/sh.jpg"
+    },
+    {
+      "name": "Sai Sridhar",
+      "description": "Sponsorship Deputy Head",
+      "resource": "/images/team/sdh1.jpeg"
+    },
+    {
+      "name": "Meena Muthukumar",
+      "description": "Sponsorship Deputy Head",
+      "resource": "/images/team/sdh.jpg"
+    },
+    {
+      "name": "Namshika",
+      "description": "Sponsorship Member",
+      "resource": "/images/team/sm1.jpeg"
+    },
+    {
+      "name": "Dejah",
+      "description": "Sponsorship Member",
+      "resource": "/images/team/sm3.jpg"
+    },
+    {
+      "name": "Sushanth",
+      "description": "Sponsorship Member",
+      "resource": "/images/team/sm2.jpeg"
+    }
+  ],
+  "alumini relations team": [
+    {
+      "name": "Shreya Sriram",
+      "description": "Alumni Relations Head",
+      "resource": "/images/team/arh.jpg"
+    },
+    {
+      "name": "Sushil Khadka",
+      "description": "Alumni Relations Deputy Head",
+      "resource": "/images/team/ardh1.jpg"
+    },
+    {
+      "name": "Swetha R",
+      "description": "Alumni Relations Deputy Head",
+      "resource": "/images/team/ardh2.jpg"
+    },
+    {
+      "name": "Selvendran M V",
+      "description": "Alumni Executive",
+      "resource": "/images/team/arm3.jpeg"
+    },
+    {
+      "name": "Ritik Antony",
+      "description": "Alumni Executive",
+      "resource": "/images/team/arm1.jpg"
+    },
+    {
+      "name": "Subash A",
+      "description": "Alumni Executive",
+      "resource": "/images/team/arm2.jpg"
+    }
+  ],
+  "editorial & content team": [
+    {
+      "name": "Madhuri Mahalingam",
+      "description": "Chief Editor",
+      "resource": "/images/team/ce.jpeg"
+    },
+    {
+      "name": "Karthik D",
+      "description": "Deputy Editor",
+      "resource": "/images/team/ced1.jpg"
+    },
+    {
+      "name": "Megan Kirupa Roxanne.R",
+      "description": "Deputy Editor",
+      "resource": "/images/team/ced2.jpg"
+    },
+    {
+      "name": "Gayathri GL",
+      "description": "Content Member",
+      "resource": "/images/team/cm3.JPG"
+    },
+    {
+      "name": "Varsha. S",
+      "description": "Content Member",
+      "resource": "/images/team/cm1.jpg"
+    },
+    {
+      "name": "Pooja Premnath",
+      "description": "Content Member",
+      "resource": "/images/team/cm2.png"
+    },
+    {
+      "name": "Sanjjit S",
+      "description": "Content Member",
+      "resource": "/images/team/cm4.jpg"
+    }
+  ]
+}
